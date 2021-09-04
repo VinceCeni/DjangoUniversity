@@ -1,0 +1,1 @@
+# Hello and welcome to my django_university project! This app allows users to do basic class changes including making changes to their schedule and registering for new classes. Enclosed is the code I used. If you have any questions please feel free to contact me! 
